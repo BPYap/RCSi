@@ -78,7 +78,6 @@ class RCSi:
 if __name__ == '__main__':
     import os
     import matplotlib.pyplot as plt
-    import matplotlib.gridspec as gridspec
 
     rcsi = RCSi()
     grid_images = []
